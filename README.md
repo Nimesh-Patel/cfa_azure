@@ -7,10 +7,6 @@
 ![Azure](https://img.shields.io/badge/Microsoft-Azure-blue?logo=microsoftazure&logoColor=white&style=plastic)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/cdcgov/cfa_azure?style=plastic)
 
-
-# cfa_azure Python Package
-## Created by Ryan Raasch (Peraton) for CFA
-
 # Outline
 - [Warnings](#warnings)
 - [Description](#description)
