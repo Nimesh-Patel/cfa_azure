@@ -1,3 +1,4 @@
+//Autoscale formula for Azure Batch jobs
 startingNumberOfVMs = 1;
 // set the maximum number of nodes you would like to scale to
 maxNumberofVMs = 10;
