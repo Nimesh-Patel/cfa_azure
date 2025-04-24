@@ -1,5 +1,5 @@
 [Authentication]
-subscription_id="sub_id"
+subscription_id="sub_id" # dummay info
 resource_group="resource_group"
 user_assigned_identity="user_assigned_identity"
 tenant_id="tenant_id"
