@@ -24,7 +24,7 @@ client.set_blob_container("containername", "/path")
 client.set_pool_info(
     mode="autoscale", autoscale_formula_path="./autoscale_formula.txt"
 )
-# if fixed mode is desired, do the following:
+# if fixed mode is desired Uncomment this line, do the following:
 # client.set_scaling(mode="fixed")
 
 # create the pool
